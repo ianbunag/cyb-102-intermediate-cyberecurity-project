@@ -1,0 +1,1 @@
+sudo docker run --name splunk-capstone -d --restart unless-stopped -it -p 8080:8000 -v splunk-capstone-etc:/opt/splunk/etc -v splunk-capstone-var:/opt/splunk/var --platform linux/amd64 splunk-capstone:local
