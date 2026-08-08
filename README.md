@@ -9,3 +9,6 @@
 - Rayna Maruyama
 - John Ian Buñag
 
+## Attack Timeline
+
+![Attack Timeline](./images/Attack%20Timeline.svg)
