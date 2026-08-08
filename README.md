@@ -1,5 +1,7 @@
 # CYB-102 Intermediate Cybersecurity Project
 
+An incident response simulation project for the Intermediate Cybersecurity course at CodePath. The project involves analyzing a simulated cyberattack dataset, following a playbook, and documenting the findings in a comprehensive report. The goal is to demonstrate the ability to identify, analyze, and respond to cybersecurity incidents effectively.
+
 ## Owners
 
 - Keesa Lee Young
